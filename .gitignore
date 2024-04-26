@@ -19,6 +19,9 @@
 # misc
 .DS_Store
 *.pem
+*.log
+*.lock
+Thumbs.db
 
 # debug
 npm-debug.log*
@@ -34,3 +37,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# lockfile
+yarn.lock
+package-lock.json
