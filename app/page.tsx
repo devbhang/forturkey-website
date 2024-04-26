@@ -154,6 +154,7 @@ export default function Home() {
 									alt={item.name}
 									width={360}
 									height={360}
+									loading="lazy"
 									className="w-full h-full object-cover object-center group-hover:scale-110 transition duration-300"
 								/>
 							</div>
