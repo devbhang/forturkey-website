@@ -271,7 +271,7 @@ export default function Home() {
 				</section>
 			</main>
 
-			<footer className="flex items-stretch justify-between border border-border divide-x divide-border">
+			<footer className="flex items-stretch justify-between border border-border border-t-0 divide-x divide-border">
 				<Image
 					src="/cdfturkey-logo.svg"
 					alt="Logo"
