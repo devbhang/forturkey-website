@@ -189,7 +189,7 @@ export default function Home() {
 				</section>
 
 				<section className="border border-border">
-					<div className="flex flex-col lg:flex-row divide-y lg:divide-x divide-border items-stretch">
+					<div className="flex flex-col lg:flex-row divide-y lg:divide-y-0 lg:divide-x divide-border items-stretch">
 						<div className="p-5 space-y-10">
 							<Image
 								src="/ahbap-logo.png"
